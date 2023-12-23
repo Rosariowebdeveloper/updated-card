@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=EB+Garamond:ital,wght@1,600&family=Figtree:wght@600;800&family=Hedvig+Letters+Serif:opsz@12..24&family=Outfit:wght@400;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Caveat', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Figtree', sans-serif;
+    font-family: 'Hedvig Letters Serif', serif;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+body{
+    background-color: hsl(47, 88%, 63%);
+ 
+}
+
